@@ -1,5 +1,5 @@
 # HOW TO CONNECT
-## 1.Create
+## 1.Create socket
 	int fd=z_socket;
 
 ## 2.Create & set-up address
